@@ -1,0 +1,11 @@
+Vrsta,VrstaDoc,Natpis
+1,1,Kreiranje Trebovanja knjiga
+1,5,Da li ima nešto za prijem iz skladišta
+1,8,Prijem kniga iz skladišta
+2,1,Da li ima zahteva iz knjižara (Trebovanja)
+2,2,Kreiranje Prijemnice za dobavljaèa
+2,3,Da li je stigla Otpremnica od dobavljaèa
+2,4,Krairaj Komisioni zapisnik o prijemu knjiga
+2,5,Kreiraj dostavnicu za knjižaru
+5,2,Da li ima zahteva za isporukom knjiga (Prijemnica)
+5,3,Kreiraj Otpremnicu za skladište
